@@ -1,2 +1,2 @@
-# Bioinformatics-1
-Align Genome
+# Bioinformatics
+Align reads to Human Genome
